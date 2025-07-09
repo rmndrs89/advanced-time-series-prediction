@@ -6,8 +6,8 @@
 
 
 ## Team Members 
-Robbin Romijnders
-Souvick Chakraborty
+- Robbin Romijnders
+- Souvick Chakraborty
 
 
 ## Description
@@ -25,17 +25,15 @@ The problem is framed as a time series **classification** problem, where the inp
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+![alt text](image.png)
 
 ## Documentation
 
-1. **[Literature Review](0_LiteratureReview/README.md)**
-2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
-3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
-4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
-5. **[Presentation](4_Presentation/README.md)**
+1. **[Literature Review](0_LiteratureReview)**
+2. **[Dataset Characteristics](1_DatasetCharacteristics)**
+3. **[Baseline Model](2_BaselineModel)**
+4. **[Model Definition and Evaluation](3_Model)**
+5. **[Presentation](4_Presentation/Detection%20of%20Freezing%20of%20Gait%20from%20Lower%20Back%20Accelerometry.pdf)**
 
 ## Cover Image
 
