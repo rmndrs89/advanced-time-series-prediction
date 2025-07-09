@@ -4,7 +4,14 @@
 
 [https://github.com/rmndrs89/advanced-time-series-prediction]
 
+
+## Team Members 
+Robbin Romijnders
+Souvick Chakraborty
+
+
 ## Description
+
 
 An estimated 7 to 10 million people around the world have Parkinson's disease (PD), many of whom suffer from freezing of gait (FOG). During a FOG episode, a patient's feet are _"glued"_ to the ground, preventing them from moving forward despite their attempts. FOG has a profound negative impact on health-related quality of life — people who suffer from FOG are often depressed, have an increased risk of falling, are likelier to be confined to wheelchair use, and have restricted independence.
 
